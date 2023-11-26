@@ -1,2 +1,4 @@
 # My-repository
-I started learning how to code in c++ and python. These are my projects and how i progressed through the years to come.
+This is my public repository. Im gonna put all my code in here.
+Im currently studying in IT and im self learning linux. For those who want to know i went with Ubuntu for my first distro.
+Im planning on putting BASH scripts in there as soon as i can.
